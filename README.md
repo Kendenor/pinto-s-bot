@@ -85,7 +85,7 @@
 ## ✨ Features
 
 - ⚡ **Pairing Code Engine:** Instant 8-digit code link directly from browser.
-- 🤖 **Built-in AI Suite:** GPT-4, Claude & Gemma chat assistants (`/ai`, `/gpt`, `/ask`,gemini,wormgpt,sora and alot more).
+- 🤖 **Built-in AI Suite:** GPT-4, Claude & Gemma chat assistants (`/ai`, `/gpt`, `/ask`,/gemini,/wormgpt,/sora,/grok and alot more).
 - 🛡️ **Anti-Ban Architecture:** Ubuntu/macOS Chrome handshake prevents WhatsApp flags.
 - 📱 **Channel & Group Automation:** Auto-react, anti-link, group welcome & protection.
 - 💎 **Virtual Coin Economy:** User coins system, redeem codes, transactions & plans.
@@ -100,7 +100,7 @@
 
 - 👑 **Author:** Mohamed Sesay (Pinto)
 - 📞 **Support WhatsApp:** +23273144411
-- 🌐 **Project Home:** [github.com/Kendenor/WhatsAppBot](https://github.com/Kendenor)
+- 🌐 **Project Home:** [git@github.com:Kendenor/pinto-s-bot.git](https://github.com/Kendenor)
 
 <div align="center">
   <br>

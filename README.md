@@ -15,10 +15,10 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Kendenor/WhatsAppBot/stargazers"><img src="https://img.shields.io/github/stars/Kendenor/WhatsAppBot?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00D9FF" /></a>
-  <a href="https://github.com/Kendenor/WhatsAppBot/network/members"><img src="https://img.shields.io/github/forks/Kendenor/WhatsAppBot?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117&color=6f42c1" /></a>
-  <a href="https://github.com/Kendenor/WhatsAppBot/commits"><img src="https://img.shields.io/github/last-commit/Kendenor/WhatsAppBot?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d4aa" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/Kendenor/WhatsAppBot?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117&color=3b82f6" /></a>
+  <a href="https://github.com/Kendenor/pinto-s-bot/stargazers"><img src="https://img.shields.io/github/stars/Kendenor/pinto-s-bot?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00D9FF" /></a>
+  <a href="https://github.com/Kendenor/pinto-s-bot/network/members"><img src="https://img.shields.io/github/forks/Kendenor/pinto-s-bot?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117&color=6f42c1" /></a>
+  <a href="https://github.com/Kendenor/pinto-s-bot/commits"><img src="https://img.shields.io/github/last-commit/Kendenor/pinto-s-bot?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d4aa" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/Kendenor/pinto-s-bot?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117&color=3b82f6" /></a>
 </p>
 
 <br>
@@ -74,7 +74,7 @@
 ### 1. Deploy Bot to Koyeb (Backend)
 1. Fork or import this repo into your GitHub.
 2. Go to [Koyeb.com](https://app.koyeb.com) and create a **Web Service**.
-3. Choose GitHub → `WhatsAppBot`.
+3. Choose GitHub → `pinto-s-bot`.
 4. Set Build command: `npm install` and Run command: `node src/index.js`.
 5. Expose Port: `5001`.
 6. Add environment variable `PORT = 5001`.
@@ -100,7 +100,7 @@
 
 - 👑 **Author:** Mohamed Sesay (Pinto)
 - 📞 **Support WhatsApp:** +23273144411
-- 🌐 **Project Home:** [git@github.com:Kendenor/pinto-s-bot.git](https://github.com/Kendenor)
+- 🌐 **Project Home:** [github.com/Kendenor/pinto-s-bot](https://github.com/Kendenor/pinto-s-bot)
 
 <div align="center">
   <br>
